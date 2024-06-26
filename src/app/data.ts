@@ -1,13 +1,13 @@
-import src1 from "../../public/food/1.png";
-import src2 from "../../public/food/2.png";
-import src3 from "../../public/food/3.png";
-import src4 from "../../public/food/4.png";
-import src5 from "../../public/food/5.png";
-import src6 from "../../public/food/6.png";
-import src7 from "../../public/food/7.png";
-import src8 from "../../public/food/8.png";
-import src9 from "../../public/food/9.png";
-import src10 from "../../public/food/10.png";
+import src1 from "../../public/food/1.webp";
+import src2 from "../../public/food/2.webp";
+import src3 from "../../public/food/3.webp";
+import src4 from "../../public/food/4.webp";
+import src5 from "../../public/food/5.webp";
+import src6 from "../../public/food/6.webp";
+import src7 from "../../public/food/7.webp";
+import src8 from "../../public/food/8.webp";
+import src9 from "../../public/food/9.webp";
+
 import { StaticImageData } from "next/image";
 
 export interface RecipeItem {
